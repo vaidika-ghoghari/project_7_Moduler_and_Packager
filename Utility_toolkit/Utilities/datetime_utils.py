@@ -6,7 +6,7 @@ def datetime_menu():
     Displays a menu for datetime utilities.
     """
     while True:
-        print("\n---Datetime & Time Operations Menu---")
+        print("\n--- Datetime & Time Operations Menu ---")
         print("1. Display Current Date and Time")
         print("2. Calculate Difference Between Two Dates")
         print("3. Format Date into Custom Format")
