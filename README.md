@@ -195,7 +195,7 @@ Potential improvements include:
 
 - **LinkedIn:** [Visit My LinkedIn Profile](https://www.linkedin.com/in/vaidika-ghoghari-2196a534a)
 - **Email:** [Contact Me](mailto:ghogharivaidika@gmail.com)
-- **Project Explanation Video:** [Watch the Project Explanation Video](YOUR_YOUTUBE_VIDEO_LINK)
+- **Project Explanation Video:** [Watch the Project Explanation Video](https://drive.google.com/file/d/1q7HZ22hwbhWeB_zpb-U-MYZaq5-TnNYm/view?usp=sharing)
 
 Feel free to connect with me, share feedback, or discuss this project.
 
