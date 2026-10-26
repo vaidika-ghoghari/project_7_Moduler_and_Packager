@@ -51,18 +51,17 @@ This project focuses on practical implementation of Python modular programming, 
 ## 🗂️ Project Structure
 
 ```text
-Modular-Packager/
-│
-├── main.py
-│
-└── Utilities/
-    ├── __init__.py
-    ├── datetime_utils.py
-    ├── math_utils.py
-    ├── random_utils.py
-    ├── uuid_utils.py
-    └── file_utils.py
-```
+project_7_Moduler_and_Packager/
+└── Utility_toolkit/
+    ├── main.py
+    └── Utilities/
+        ├── __init__.py
+        ├── datetime_utils.py
+        ├── math_utils.py
+        ├── random_utils.py
+        ├── uuid_utils.py
+        └── file_utils.py
+    ```
 
 ### Architecture
 
